@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Raj Kumar Rangwani
-- 🌱 I’m currently learning coding at 42 Abu Dhabi
+- 🌱 I’m currently coding at 42 Abu Dhabi
 
 
 <!---
