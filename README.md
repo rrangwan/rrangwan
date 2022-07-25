@@ -5,6 +5,8 @@ Repositories
 
 1. 42_libft : This is the first project in the common core. It is a library of commonly used functions.
 
+2. 42_ft_printf : This is the second  project in the common core. It is a replica of the printf function in C.
+
 
 <!---
 rrangwan/rrangwan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
