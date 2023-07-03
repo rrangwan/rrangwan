@@ -11,7 +11,7 @@
 
 4. 42_so_long : A 2D maze game created using 42's own graphic rendering library.
 
-5. 42_push_swap : Solving the problem or sorting a stack using one other (innitially empty) stack.
+5. 42_push_swap : Solving the problem of sorting a stack using one other (empty) stack.
 
 6. 42_pipex : Recreating the '|' (pipe) control operator in bash.
 
