@@ -24,7 +24,11 @@
 
  # Web Development Repositories:
 1. Personal Portfolio
- 
+
+ # Art and Tech Repositories:
+1_Art_TechArt_Solo_1: A solo project conducted during a 4 month workshop with the Emirati artist Nujoom AlGhanem
+
+
 <!---
 rrangwan/rrangwan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
