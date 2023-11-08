@@ -1,6 +1,6 @@
  # About:
  - 👋 Hi, I’m Raj Kumar Rangwani
-- 🌱 I’m currently coding at 42 Abu Dhabi
+- 🌱 
 
  # 42 Repositories:
 
