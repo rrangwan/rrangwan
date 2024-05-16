@@ -22,11 +22,7 @@
 
 9. 42_cub3D : A 3D maze game using ray casting principles.
 
- # Web Development Repositories:
-1. Personal Portfolio
 
- # Art and Tech Repositories:
-1_Art_TechArt_Solo_1: A solo project conducted during a 4 month workshop with the Emirati artist Nujoom AlGhanem
 
 
 <!---
