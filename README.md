@@ -2,6 +2,12 @@
  - 👋 Hi, I’m Raj Kumar Rangwani
 - 🌱 
 
+
+ # Hackathons:
+
+1. MOI_Hackathon_TeamTesseract : Demo of a feature to add to the existing android app of the Ministry of Interior of the UAE. The feature is to provide assistance to user's that cannot read English, or see.
+
+
  # 42 Repositories:
 
 1. 42_libft : It is a library of commonly used functions.
