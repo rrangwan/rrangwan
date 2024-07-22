@@ -1,6 +1,6 @@
  # About:
  - 👋 Hi, I’m Raj Kumar Rangwani
-- 🌱 
+- MY CV: <a href="https://rrangwan.github.io/CV/" target="_blank">View my CV</a>
 
 
  # Hackathons:
