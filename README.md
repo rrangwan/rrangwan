@@ -2,6 +2,12 @@
  - 👋 Hi, I’m Raj Kumar Rangwani
 - MY CV: <a href="https://rrangwan.github.io/CV/" target="_blank">View my CV</a>
 
+ # 42 Mastery Repositories:
+
+<a href="https://rrangwan.github.io/CV/"> 1. 42 Mastery Checklists</a>
+<a href="https://rrangwan.github.io/CV/"> 2. Computerv1</a>
+
+
 
  # Hackathons:
 
