@@ -4,8 +4,8 @@
 
  # 42 Mastery Repositories:
 
-<a href="https://rrangwan.github.io/CV/"> 1. 42 Mastery Checklists</a>
-<a href="https://rrangwan.github.io/CV/"> 2. Computerv1</a>
+<a href="https://github.com/rrangwan/42_Mastery_Checklists"> 1. 42 Mastery Checklists</a> <br>
+<a href="https://github.com/rrangwan/42_Mastery_Computerv1"> 2. Computerv1</a>
 
 
 
