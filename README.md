@@ -7,6 +7,13 @@
 <a href="https://github.com/rrangwan/42_Mastery_Checklists"> 1. 42 Mastery Checklists</a> <br>
 <a href="https://github.com/rrangwan/42_Mastery_Computerv1"> 2. Computerv1</a>
 
+ # Rust:
+ 
+ <a href="https://github.com/rrangwan/42_Mastery_Computerv1"> My first Rust project, a quadratic equation solver</a>
+
+
+ # UI/UX:
+ <a href="https://github.com/rrangwan/Figma_demo1">Figma Mobile App Demo 1 </a>
 
 
  # Hackathons:
