@@ -1,21 +1,22 @@
  # About:
  - 👋 Hi, I’m Raj Kumar Rangwani
-- MY CV: <a href="https://rrangwan.github.io/CV/" target="_blank">View my CV</a>
+- MY CV: <a href="https://rrangwan.github.io/CV/" target="_blank">View my CV</a> <br>
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev) <a href="https://www.linkedin.com/in/rrangwan/"> rrangwan </a><br>
+[![My Skills](https://skillicons.dev/icons?i=instagram)](https://skillicons.dev) <a href="https://www.instagram.com/r4jthecoder/"> r4jthecoder </a><br><br>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,django,postgres,docker,react,debian,git,apple,bash,github,c,cpp,python,rust,unity,vercel)](https://skillicons.dev)
+<br>
 
  # 42 Mastery Repositories:
 
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,django,postgres,docker,react,debian,git,apple,bash,github,c,cpp,python,rust,unity,vercel)](https://skillicons.dev)
-<br>
 <a href="https://github.com/rrangwan/42_Mastery_Computerv1">1. Computerv1</a> <br>
 <a href="https://github.com/rrangwan/42_MASTERY_ft_linear_regression">2. ft Linear Regression </a>
 
- # Rust:
+ [![My Skills](https://skillicons.dev/icons?i=rust)](https://skillicons.dev)# Rust:
  
  <a href="https://github.com/rrangwan/42_Mastery_Computerv1"> My first Rust project, a quadratic equation solver</a>
 
 
-# Python:
+[![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)# Python:
  
  <a href="https://github.com/rrangwan/42_MASTERY_ft_linear_regression">ft Linear Regression </a>
  
