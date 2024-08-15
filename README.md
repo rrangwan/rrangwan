@@ -13,7 +13,8 @@
 
 # Rust:
  [![My Skills](https://skillicons.dev/icons?i=rust)](https://skillicons.dev)
- <a href="https://github.com/rrangwan/42_Mastery_Computerv1"> My first Rust project, a quadratic equation solver</a>
+ 
+ <a href="https://github.com/rrangwan/42_Mastery_Computerv1"> Quadratic Equation Solver</a>
 
 # Python:
 [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
