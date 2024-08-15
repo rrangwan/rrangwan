@@ -6,8 +6,8 @@
 
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,django,postgres,docker,react,debian,git,apple,bash,github,c,cpp,python,rust,unity,vercel)](https://skillicons.dev)
-<a href="https://github.com/rrangwan/42_Mastery_Computerv1"> <br>
-1. Computerv1</a> <br>
+<br>
+<a href="https://github.com/rrangwan/42_Mastery_Computerv1">1. Computerv1</a> <br>
 <a href="https://github.com/rrangwan/42_MASTERY_ft_linear_regression">2. ft Linear Regression </a>
 
  # Rust:
