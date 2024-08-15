@@ -4,13 +4,18 @@
 
  # 42 Mastery Repositories:
 
-<a href="https://github.com/rrangwan/42_Mastery_Checklists"> 1. 42 Mastery Checklists</a> <br>
-<a href="https://github.com/rrangwan/42_Mastery_Computerv1"> 2. Computerv1</a>
+<a href="https://github.com/rrangwan/42_Mastery_Computerv1"> 1. Computerv1</a>
+<a href="https://github.com/rrangwan/42_MASTERY_ft_linear_regression">2. ft Linear Regression </a>
 
  # Rust:
  
  <a href="https://github.com/rrangwan/42_Mastery_Computerv1"> My first Rust project, a quadratic equation solver</a>
 
+
+# Python:
+ 
+ <a href="https://github.com/rrangwan/42_MASTERY_ft_linear_regression">ft Linear Regression </a>
+ 
 
  # UI/UX:
  <a href="https://github.com/rrangwan/Figma_demo1">Figma Mobile App Demo 1 </a>
