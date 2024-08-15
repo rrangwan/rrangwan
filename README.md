@@ -1,8 +1,8 @@
  # About:
  - 👋 Hi, I’m Raj Kumar Rangwani
 - MY CV: <a href="https://rrangwan.github.io/CV/" target="_blank">View my CV</a> <br><br>
-![LinkedIn](https://skillicons.dev/icons?i=linkedin)(https://www.linkedin.com/in/rrangwan/) <a href="https://www.linkedin.com/in/rrangwan/"> rrangwan </a><br>
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/r4jthecoder/) <a href="https://www.instagram.com/r4jthecoder/"> r4jthecoder </a><br><br>
+![LinkedIn](https://skillicons.dev/icons?i=linkedin)<a href="https://www.linkedin.com/in/rrangwan/"> rrangwan </a><br>
+[![Instagram](https://skillicons.dev/icons?i=instagram)]<a href="https://www.instagram.com/r4jthecoder/"> r4jthecoder </a><br><br>
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,figma,django,postgres,docker,react,debian,git,apple,bash,github,c,cpp,python,rust,unity,vercel,vscode)]
 <br>
 
