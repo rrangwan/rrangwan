@@ -14,7 +14,9 @@
 <a href="https://github.com/rrangwan/42_MASTERY_ft_linear_regression">2. ft Linear Regression </a>
 
 <br>
+
 # Rust:
+
 ![Rust](https://skillicons.dev/icons?i=rust)
  
  <a href="https://github.com/rrangwan/42_Mastery_Computerv1"> Quadratic Equation Solver</a>
