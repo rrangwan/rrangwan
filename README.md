@@ -7,7 +7,7 @@
 <br>
 
  # 42 Mastery Repositories:
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/42_Logo.svg" alt="42" width="100" height="100"/><a href="https://profile.intra.42.fr/users/rrangwan"> rrangwan </a><br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/42_Logo.svg" alt="42" width="50" height="50"/><a href="https://profile.intra.42.fr/users/rrangwan"> rrangwan </a><br><br>
  
 
 <a href="https://github.com/rrangwan/42_Mastery_Computerv1">1. Computerv1</a> <br>
