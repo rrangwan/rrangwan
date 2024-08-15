@@ -3,7 +3,7 @@
 - MY CV: <a href="https://rrangwan.github.io/CV/" target="_blank">View my CV</a> <br><br>
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev) <a href="https://www.linkedin.com/in/rrangwan/"> rrangwan </a><br>
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://skillicons.dev) <a href="https://www.instagram.com/r4jthecoder/"> r4jthecoder </a><br><br>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,django,postgres,docker,react,debian,git,apple,bash,github,c,cpp,python,rust,unity,vercel,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,figma,django,postgres,docker,react,debian,git,apple,bash,github,c,cpp,python,rust,unity,vercel,vscode)](https://skillicons.dev)
 <br>
 
  # 42 Mastery Repositories:
@@ -23,6 +23,8 @@
  
 
  # UI/UX:
+ [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
+ 
  <a href="https://github.com/rrangwan/Figma_demo1">Figma Mobile App Demo 1 </a>
 
 
