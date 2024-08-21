@@ -35,7 +35,7 @@
 
  # Hackathons:
 
-1. MOI_Hackathon_TeamTesseract : Demo of a feature to add to the existing android app of the Ministry of Interior of the UAE. The feature is to provide assistance to user's that cannot read English, or see.
+<a href="https://github.com/rrangwan/MOI_Hackathon_AudioTags">1. MOI_Hackathon_AudioTags : Demo of a feature to add to the existing android app of the Ministry of Interior of the UAE. The feature is to provide assistance to user's that cannot read English, or see. </a>
 
 
  # 42 Repositories:
