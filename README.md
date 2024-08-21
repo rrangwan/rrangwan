@@ -44,28 +44,21 @@
  ![My Skills](https://skillicons.dev/icons?i=c,cpp)
 <br>
 
-1. 42_libft : It is a library of commonly used functions.
+<a href="https://github.com/rrangwan/1-42_Libft">1. 42_libft : It is a library of commonly used functions.</a>
 
-2. 42_ft_printf : It is a replica of the printf function in C.
+<a href="https://github.com/rrangwan/2-42_ft_printf">2. 42_ft_printf : It is a replica of the printf function in C.</a>
 
-3. 42_get_next_line : It is a replica of the getline() function in C, but with just one parameter (int fd).
+<a href="https://github.com/rrangwan/3-42_get_next_line">3. 42_get_next_line : It is a replica of the getline() function in C, but with just one parameter (int fd).</a>
 
-4. 42_so_long : A 2D maze game created using 42's own graphic rendering library.
+<a href="https://github.com/rrangwan/4-42_so_long">4. 42_so_long : A 2D maze game created using 42's own graphic rendering library.</a>
 
-5. 42_push_swap : Solving the problem of sorting a stack using one other (empty) stack.
+<a href="https://github.com/rrangwan/5-42_push_swap">5. 42_push_swap : Solving the problem of sorting a stack using one other (empty) stack.</a>
 
-6. 42_pipex : Recreating the '|' (pipe) control operator in bash.
+<a href="https://github.com/rrangwan/6-42_pipex">6. 42_pipex : Recreating the '|' (pipe) control operator in bash.</a>
 
-7. 42_minishell : Recreating the bash shell with custom built in commands such as 'cd', 'env', 'export', 'echo', 'pwd', 'unset', 'exit'.
+<a href="https://github.com/rrangwan/7-42_minishell">7. 42_minishell : Recreating the bash shell with custom built in commands such as 'cd', 'env', 'export', 'echo', 'pwd', 'unset', 'exit'.</a>
 
-8. 42_philosophers : Solving the classic philosopher's dining problem using multi-threading.
+<a href="https://github.com/rrangwan/8-42_philosophers">8. 42_philosophers : Solving the classic philosopher's dining problem using multi-threading.</a>
 
-9. 42_cub3D : A 3D maze game using ray casting principles.
+<a href="https://github.com/rrangwan/9-42_cub3D">9. 42_cub3D : A 3D maze game using ray casting principles.</a>
 
-
-
-
-<!---
-rrangwan/rrangwan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
