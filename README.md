@@ -35,12 +35,14 @@
 
  # Hackathons:
 
-![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,vercel,nextjs)
+![My Skills](https://skillicons.dev/icons?i=js,html,vercel,nextjs,css,ts)
 <br>
 <a href="https://github.com/rrangwan/MOI_Hackathon_AudioTags">1. MOI_Hackathon_AudioTags : Demo of a feature to add to the existing android app of the Ministry of Interior of the UAE. The feature is to provide assistance to user's that cannot read English, or see. </a>
 
 
  # 42 Repositories:
+ ![My Skills](https://skillicons.dev/icons?i=c,cpp)
+<br>
 
 1. 42_libft : It is a library of commonly used functions.
 
