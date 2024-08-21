@@ -24,7 +24,7 @@
 # Python:
 ![Python](https://skillicons.dev/icons?i=python)
  
- <a href="https://github.com/rrangwan/42_MASTERY_ft_linear_regression">ft Linear Regression </a>
+ <a href="https://github.com/rrangwan/42_MASTERY_ft_linear_regression">Linear Regression with ML (basic)</a>
  
 
  # UI/UX:
