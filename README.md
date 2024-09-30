@@ -37,7 +37,7 @@
 
 ![My Skills](https://skillicons.dev/icons?i=js,html,vercel,nextjs,css,ts)
 <br>
-<a href="moi-hackathon-team-tesseract.vercel.app">1. MOI_Hackathon_AudioTags : Demo of a feature to add to the existing android app of the Ministry of Interior of the UAE. The feature is to provide assistance to user's that cannot read English, or see. </a>
+[1. MOI_Hackathon_AudioTags : Demo of a feature to add to the existing android app of the Ministry of Interior of the UAE. The feature is to provide assistance to user's that cannot read English, or see. ](https://moi-hackathon-team-tesseract.vercel.app)
 
 
  # 42 Foundational Level Repositories:
