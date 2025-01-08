@@ -33,6 +33,13 @@
  <a href="https://github.com/rrangwan/Figma_demo1">Figma Mobile App Demo 1 </a>
 
 
+ # OCaml:
+ ![OCaml](https://skillicons.dev/icons?i=ocaml)
+ 
+ <a href="https://github.com/rrangwan/42_MASTERY_ft_turing">Replica of a Turing Machine </a>
+
+ 
+
  # Hackathons:
 
 ![My Skills](https://skillicons.dev/icons?i=js,html,vercel,nextjs,css,ts)
