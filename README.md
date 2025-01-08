@@ -13,7 +13,7 @@
 <a href="https://github.com/rrangwan/42_Mastery_Computerv1">1. Computerv1</a> <br>
 <a href="https://github.com/rrangwan/42_MASTERY_ft_linear_regression">2. ft Linear Regression </a> <br>
 <a href="https://github.com/rrangwan/42_MASTERY_ft_turing">3. ft Turing </a> <br>
-
+<a href="https://github.com/rrangwan/42_MASTERY_Data_Science_Logistic_Regression">4. DSLR </a> <br>
 
 <br>
 
@@ -26,8 +26,10 @@
 # Python:
 ![Python](https://skillicons.dev/icons?i=python)
  
- <a href="https://github.com/rrangwan/42_MASTERY_ft_linear_regression">Linear Regression with ML (basic)</a>
- 
+ <a href="https://github.com/rrangwan/42_MASTERY_ft_linear_regression">Linear Regression with ML (basic)</a> <br>
+ <a href="https://github.com/rrangwan/42_MASTERY_Data_Science_Logistic_Regression">Logistic Regression with Visualizations</a> <br>
+
+
 
  # UI/UX:
  ![Figma](https://skillicons.dev/icons?i=figma)
