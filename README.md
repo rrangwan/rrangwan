@@ -73,3 +73,5 @@
 
 <a href="https://github.com/rrangwan/9-42_cub3D">9. 42_cub3D : A 3D maze game using ray casting principles.</a>
 
+<a href="https://github.com/rrangwan/10-42_ft_transcendence">10. 42_ft_transcendence: The final 'group' capstone project to create a webapp for playing the pong game. Interesting learning about group dynamics during pressure situations</a>
+
