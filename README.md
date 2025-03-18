@@ -14,6 +14,7 @@
 <a href="https://github.com/rrangwan/42_MASTERY_ft_linear_regression">2. ft Linear Regression </a> <br>
 <a href="https://github.com/rrangwan/42_MASTERY_ft_turing">3. ft Turing </a> <br>
 <a href="https://github.com/rrangwan/42_MASTERY_Data_Science_Logistic_Regression">4. DSLR </a> <br>
+<a href="https://github.com/rrangwan/42_MASTRY_Python_for_DataScience_Piscine">5. Python for Data Science Piscine</a> <br>
 
 <br>
 
@@ -28,6 +29,8 @@
  
  <a href="https://github.com/rrangwan/42_MASTERY_ft_linear_regression">Linear Regression with ML (basic)</a> <br>
  <a href="https://github.com/rrangwan/42_MASTERY_Data_Science_Logistic_Regression">Logistic Regression with Visualizations</a> <br>
+ <a href="https://github.com/rrangwan/42_MASTRY_Python_for_DataScience_Piscine">Python for Data Science</a> <br>
+
 
 
 
@@ -42,15 +45,8 @@
  
  <a href="https://github.com/rrangwan/42_MASTERY_ft_turing">Replica of a Turing Machine </a>
 
+
  
-
- # Hackathons:
-
-![My Skills](https://skillicons.dev/icons?i=js,html,vercel,nextjs,css,ts)
-<br>
-[1. MOI_Hackathon_AudioTags : Demo of a feature to add to the existing android app of the Ministry of Interior of the UAE. The feature is to provide assistance to user's that cannot read English, or see. ](https://moi-hackathon-team-tesseract.vercel.app)
-
-
  # 42 Foundational Level Repositories:
  ![My Skills](https://skillicons.dev/icons?i=c,cpp)
 <br>
